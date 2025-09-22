@@ -7,7 +7,7 @@
 
 ## 📂 データ構造
 
-plaintext
+```plaintext
 src/data/
 ├── cafe/
 │   ├── aaa.txt        # dB値 (CSV形式: min,ave,max)
