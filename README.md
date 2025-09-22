@@ -26,9 +26,9 @@ src/data/
   min,ave,max
   56,64,79
 *_NNN.jpg|png: 店舗の複数枚画像
-
+```plaintext
 pip install opencv-python numpy pandas torch torchvision ultralytics scikit-image matplotlib timm
-
+```
 ## 🚀 実行方法
 
 cd src
