@@ -20,7 +20,7 @@ src/data/
 │   └── ...
 └── other/
     └── ...
-
+```
 - `*.txt`: 騒音測定値。例:
   ```csv
   min,ave,max
